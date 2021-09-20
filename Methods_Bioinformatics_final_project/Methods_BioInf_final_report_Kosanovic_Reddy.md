@@ -66,7 +66,7 @@ BiocManager::install("DESeq2")
     ## Old packages: 'gert', 'later', 'RCurl', 'rtracklayer', 'xfun', 'XML'
 
 Our datasets consist of the expression values (read counts) for each
-sample: - 18829 (high quality) proteing coding genes and - 9438 (high
+sample: - 18829 (high quality) protein coding genes and - 9438 (high
 quality) non protein coding RNAs (6520 lincRNA, 1780 snRNAs and 1137
 miRNAs)
 
